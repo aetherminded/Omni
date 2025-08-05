@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Sigil",
+  "description": "Quantum-inspired NFT",
+  "image": "ipfs://<CID>",
+  "attributes": [{"trait_type": "Resonance", "value": 0.888}]
+}
